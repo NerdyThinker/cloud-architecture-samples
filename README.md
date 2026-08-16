@@ -1,2 +1,2 @@
 # cloud-architecture-samples
-Sample Terraform script for some cloud patterns
+Sample Terraform script for a few cloud patterns
